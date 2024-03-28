@@ -1,6 +1,6 @@
 ### Olá, sou Kauan Rocha 👋
 
-Olá, sou Kauan, um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou empenhado em aprimorar minhas habilidades como desenvolvedor de software Java, buscando constantemente novos desafios para elevar meu padrão de excelência.
+Um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou empenhado em aprimorar minhas habilidades como desenvolvedor de software Java, buscando constantemente novos desafios para elevar meu padrão de excelência.
 
 Com quase dois anos de experiência como desenvolvedor Java no segmento de PDVs, adquiri valiosa experiência técnica em Java, Spring Boot, Docker e na construção de microserviços. Além disso, explorei o mundo da computação em nuvem, trabalhando com serviços AWS para desenvolver arquiteturas escaláveis e robustas.
 
