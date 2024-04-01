@@ -28,3 +28,7 @@ Estou sempre em busca de novos conhecimentos e oportunidades para contribuir de 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KauanRocha&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
 ## Minhas Contribuições
+
+[![repo](https://img.shields.io/badge/💻-rinha_2024_Spring_Native_GraalVM-f8f8f2?style=for-the-badge&logoColor=0E76A8)](https://github.com/KauanRocha/rinha-2024-spring-native-graalvm)
+
+
