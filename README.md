@@ -29,6 +29,7 @@ Estou sempre em busca de novos conhecimentos e oportunidades para contribuir de 
 
 ## Minhas Contribuições
 
-[![repo](https://img.shields.io/badge/💻-rinha_2024_Spring_Native_GraalVM-f8f8f2?style=for-the-badge&logoColor=0E76A8)](https://github.com/KauanRocha/rinha-2024-spring-native-graalvm)
+[<img src="https://img.shields.io/badge/Spring_Native_GraalVM-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" height="50">](https://github.com/KauanRocha/rinha-2024-spring-native-graalvm) 
 
+[<img src="https://img.shields.io/badge/amazon_bucket_s3-ff9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Badge" height="50">](https://github.com/KauanRocha/amazon-bucket-s3)
 
