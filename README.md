@@ -22,14 +22,13 @@ Estou sempre em busca de novos conhecimentos e oportunidades para contribuir de 
 ![MongoDB](https://img.shields.io/badge/MongoDB-f8f8f2?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f8f8f2?style=for-the-badge&logo=postgresql)
 
+## Minhas Contribuições
+
+[<img src="https://img.shields.io/badge/Spring_Native_GraalVM-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" height="50">](https://github.com/KauanRocha/rinha-2024-spring-native-graalvm)         [<img src="https://img.shields.io/badge/amazon_bucket_s3-ff9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Badge" height="50">](https://github.com/KauanRocha/amazon-bucket-s3)
+
 
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KauanRocha&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
-## Minhas Contribuições
-
-[<img src="https://img.shields.io/badge/Spring_Native_GraalVM-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" height="50">](https://github.com/KauanRocha/rinha-2024-spring-native-graalvm) 
-
-[<img src="https://img.shields.io/badge/amazon_bucket_s3-ff9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Badge" height="50">](https://github.com/KauanRocha/amazon-bucket-s3)
 
