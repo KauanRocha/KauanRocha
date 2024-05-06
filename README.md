@@ -24,7 +24,11 @@ Estou sempre em busca de novos conhecimentos e oportunidades para contribuir de 
 
 ## Minhas Contribuições
 
-[<img src="https://img.shields.io/badge/Spring_Native_GraalVM-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" height="50">](https://github.com/KauanRocha/rinha-2024-spring-native-graalvm)         [<img src="https://img.shields.io/badge/amazon_bucket_s3-ff9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Badge" height="50">](https://github.com/KauanRocha/amazon-bucket-s3)
+[<img src="https://img.shields.io/badge/Spring_Native_GraalVM-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" height="50">](https://github.com/KauanRocha/rinha-2024-spring-native-graalvm)
+
+[<img src="https://img.shields.io/badge/amazon_bucket_s3-ff9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Badge" height="50">](https://github.com/KauanRocha/amazon-bucket-s3)
+
+[<img src="https://img.shields.io/badge/gateway_de_pagamento_quarkus-764ABC?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus Badge" height="50">](https://github.com/KauanRocha/gateway-de-pagamento-quarkus)
 
 
 ## GitHub Stats
