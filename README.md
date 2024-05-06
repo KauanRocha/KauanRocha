@@ -15,6 +15,7 @@ Estou sempre em busca de novos conhecimentos e oportunidades para contribuir de 
 
 ![Java](https://img.shields.io/badge/Java-f8f8f2?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-f8f8f2?style=for-the-badge&logo=spring)
+![Quarkus](https://img.shields.io/badge/Quarkus-f8f8f2?style=for-the-badge&logo=quarkus)
 ![Docker](https://img.shields.io/badge/Docker-f8f8f2?style=for-the-badge&logo=docker)
 ![Microservices](https://img.shields.io/badge/Microservices-f8f8f2?style=for-the-badge&logo=micronaut)
 ![AWS](https://img.shields.io/badge/AWS-f8f8f2?style=for-the-badge&logo=amazon-aws)
