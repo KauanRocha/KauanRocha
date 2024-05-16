@@ -31,9 +31,3 @@ Estou sempre em busca de novos conhecimentos e oportunidades para contribuir de 
 
 [<img src="https://img.shields.io/badge/gateway_de_pagamento_quarkus-764ABC?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus Badge" height="50">](https://github.com/KauanRocha/gateway-de-pagamento-quarkus)
 
-
-## GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KauanRocha&theme=radical&mode=weekly)](https://git.io/streak-stats)
-
-
